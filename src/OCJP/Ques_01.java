@@ -5,6 +5,8 @@ public class Ques_01 {
 	static int add(int i,int j){
 		return i+j;
 
+		
+		//thiss is for second commit
 	}
 }
 
